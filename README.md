@@ -1,0 +1,1 @@
+This is the first actual Odin project. I'll be creating a simple page with some links to recipies, all using HTML. The purpose of this project is to get in some practice with using HTML. I'll be revisiting this project in the future to beautify it up using CSS once I learn how to do it.
