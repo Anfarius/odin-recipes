@@ -1,0 +1,38 @@
+* {
+    background: rgb(87, 87, 87);
+    color: rgb(241, 230, 209);
+    font-family: Tahoma, sans-serif;
+}
+
+body {
+    padding: 0 100px;
+}
+
+img {
+    border: 10px solid #ffa55c;
+    box-shadow: 20px -10px 10px 5px rgba(0, 0, 0, 0.25);
+    padding: 15px;
+    background: white;
+    display: block;
+    margin: auto;
+    height: 300px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+p, li {
+    text-align: justify;
+}
+
+div {
+    border: 5px solid #ffa55c;
+    width: 300px;
+    margin: auto;
+    padding: 0 25px;
+}
+
+ul, ol {
+    padding-inline-start: 20px;
+}
